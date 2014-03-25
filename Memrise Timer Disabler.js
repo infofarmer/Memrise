@@ -2,6 +2,7 @@
 // @name           Memrise Timer Disabler
 // @description    Disables the Timer on watering & gardening levels in Memrise.com
 // @match          http://www.memrise.com/course/*/garden/*
+// @match          http://www.memrise.com/garden/water/*
 // @version        0.1.1
 // @updateURL      https://userscripts.org/scripts/source/174879.meta.js
 // @downloadURL    https://userscripts.org/scripts/source/174879.user.js
